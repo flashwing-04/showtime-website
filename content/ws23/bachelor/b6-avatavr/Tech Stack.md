@@ -21,7 +21,7 @@ This implementation is fairly new and often times riddled with failures, especia
 {{</section>}}
 
 {{<section title="Motion Capturing">}}
-To capture the instructors movements we recorded his speech aswell as his movements, in the Lab of the creative media team of the "Institut für Kultur und Informatik an der HTW Berlin" which draws a rigged skeleton by capturing the movements from 8 angles.
+To capture the instructor's movements we recorded his speech as well as his movements, in the Lab of the creative media team of the "Institut für Kultur und Informatik an der HTW Berlin" which draws a rigged skeleton by capturing the movements from 8 angles.
 
 - Captury (for real-time motion-capturing)
 - Blender (for cutting and cleaning the captured data)

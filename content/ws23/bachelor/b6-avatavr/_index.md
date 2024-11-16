@@ -29,7 +29,7 @@ enabling the study of various impact factors. To make this instructional session
 we partnered with the company se.services. The local electronics service provider, was a helpful partner in providing us with priceless expertise in the field of employee training.
 
 {{<image src="se_logo.svg" caption="se.services GmbH Logo">}}
-In collaboration with their Head Instructor Markus Zippel, who has trained countless of electricians during his career, we were able to create a scenario, deliviring a basis on which we could later evaluate the users experiences.
+In collaboration with their Head Instructor Markus Zippel, who has trained countless electricians during his career, we were able to create a scenario, delivering a basis on which we could later evaluate the users experiences.
 {{</section>}} 
 
 
@@ -46,7 +46,7 @@ To ensure that the NPCs only differ in their visual representation, we utilized 
 
 
 {{<section title="Scientific Foundations">}}
-The questionnaire weve put together, in order to be used during the testing process, is built upon solid scientific principles to explore the nuanced dynamics of user-avatar interactions. Rooted in established psychological theories, we focus on key elements like social presence, trust, affect, and the immersive experience.
+The questionnaire we've put together, in order to be used during the testing process, is built upon solid scientific principles to explore the nuanced dynamics of user-avatar interactions. Rooted in established psychological theories, we focus on key elements like social presence, trust, affect, and the immersive experience.
 {{</section>}} 
 
 
