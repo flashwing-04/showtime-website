@@ -8,7 +8,7 @@ weight = 3
 </style>
 
 {{<section title="Put your headset on and enter another world" >}}
-Pop on the Meta Quest headset and jump into a different world that's full of fun and surprises. You'll find yourself surronded by a **virtual forest** behind your own walls where you can explore, discover, and just **have a good time with your friends**. It's not just about playing; it's about stepping into a whole new place that feels as real as your sourroundings.
+Pop on the Meta Quest headset and jump into a different world that's full of fun and surprises. You'll find yourself surrounded by a **virtual forest** behind your own walls where you can explore, discover, and just **have a good time with your friends**. It's not just about playing; it's about stepping into a whole new place that feels as real as your surroundings.
 
 <div class="mb-0">{{<image src="screenshot2.png" alt="Picture of Gameplay">}}</div>
 {{</section>}}
@@ -21,7 +21,7 @@ _Get ready to guard your territory!_ In this game, you'll work with others to **
 {{</section>}}
 
 {{<section title="Play together and compete with your friends" >}}
-Virtual Reality has been around for a while, but rarely in a multiplayer mode where everyone meets in the same place. Round up your friends for our mixed-reality game where you can **team up or go head-to-head**. Whether you're collaborating to beat the highest score or competing against each other, it's all about having fun and sharing the moment. Whoever catches the most creatures wins! This is a great way to connect, challenge one another, and share a laugh or two, no matter where you are.
+Virtual Reality has been around for a while, but rarely in a multiplayer mode where everyone meets in the same place. Round up your friends for our mixed-reality game, where you can **team up or go head-to-head**. Whether you're collaborating to beat the highest score or competing against each other, it's all about having fun and sharing the moment. Whoever catches the most creatures wins! This is a great way to connect, challenge one another, and share a laugh or two, no matter where you are.
 
 <div class="mb-0">{{<image src="screenshot3.png" alt="Picture of Gameplay" >}}</div>
 {{</section>}}
