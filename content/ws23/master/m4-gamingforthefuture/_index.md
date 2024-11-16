@@ -13,10 +13,10 @@ draft = false
 +++
 
 {{<section title="Our Goal">}}
-The goal of our project was to develop a game together with the NABU about the Water Scarcity in Brandenburg. Gaming For Future, is a  single-player strategy, environmental simulation, and awareness game centered around the critical issue of water scarcity. Our goal was it with this game to draw people’s attention to the crucial issue of water scarcity through
+The goal of our project was to develop a game together with the NABU about the Water Scarcity in Brandenburg. Gaming For Future, is a  single-player strategy, environmental simulation, and awareness game centered around the critical issue of water scarcity. Our goal was it with this game to draw people’s attention to the crucial issue of water scarcity through a
 Game-Based Learning approach.
 
-NABU (Naturschutzverband e.V) is an NGO with approximately 900,000 members (more than 1% of the population)
+NABU (Naturschutzverband e.V.) is an NGO with approximately 900,000 members (more than 1% of the population)
 environmental education, spreading of public awareness, cooperations with local groups,
 institutions and authorities to promote nature-friendly policies
 {{<image src="Nabu.png" alt="Nabu" caption="Nabu">}}
@@ -33,7 +33,7 @@ Each biome tile affects temperature and ground water level differently.
 
 The player can place biome tiles on the map. Each tile has different influences on the water level.
 Level Selection:
-Each level  visualised different initial environment conditions (ground water level & temperature) and unique threshold values
+Each level  visualised different initial environment conditions (ground water level & temperature) and unique threshold values.
 
 Challenge:
 The challenge lies in the learning process, where players must discern the impact of each biome tile on the ecosystem.
@@ -60,8 +60,8 @@ We divided the tasks equally and spend the first few weeks with researching and 
 {{</gallery>}}
 
 {{<section title="Technologies">}}
-For this project we used mainly the Unity Engine to develop the game.
-Other programs that we used were Figma,Photoshop and Excel. Sometimes we had to use Blender as well. Coding was done in Rider, Visual Studio.
+For this project, we used mainly the Unity Engine to develop the game.
+Other programs that we used were Figma, Photoshop and Excel. Sometimes we had to use Blender as well. Coding was done in Rider, Visual Studio.
 Discord was used for communication.
 {{<image src="Tech.png" alt="Profile screen" caption="Tech Stack">}}
 
@@ -69,7 +69,7 @@ Discord was used for communication.
 {{</section>}} 
 
 {{<section title="Technologies">}}
-Aesthecially pleasing:
+Aesthetically pleasing:
 Our own highly stylish rework models of
 assets using Blender from Kenney for an
 appealing aesthetic
