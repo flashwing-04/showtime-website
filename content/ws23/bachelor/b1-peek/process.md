@@ -4,9 +4,9 @@ weight = 1
 +++
 
 {{<section title="Process">}}
-Since our project had a lot do to with displaying data so it's easy to understand, we first created a concept of what our application should look like in Figma. The user should be able to navigate the interface easily, without immediately being overwhelmed. To do that, we decided that the application should have a simple login interface and once logged in, the user should be presented with only the necessary options first, navigating deeper into the interface as needed.
+Since our project had a lot to do with displaying data so it's easy to understand, we first created a concept of what our application should look like in Figma. The user should be able to navigate the interface easily, without immediately being overwhelmed. To do that, we decided that the application should have a simple login interface and once logged in, the user should be presented with only the necessary options first, navigating deeper into the interface as needed.
 
-Using this logic, we also decided on which team member would code what part of the interface and also which components were needed for the rest of the team to start working on their parts. We devided the team into sub-groups to work on different components and also had specialists for frontend and backend.
+Using this logic, we also decided on which team member would code what part of the interface and also which components were needed for the rest of the team to start working on their parts. We divided the team into sub-groups to work on different components and also had specialists for frontend and backend.
 
 The backend was developed prior to and alongside the frontend. We needed some backend functionality and initial reading data from the database to build the frontend on top of this functionality.
 
