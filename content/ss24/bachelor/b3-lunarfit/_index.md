@@ -36,7 +36,7 @@ Education and awareness are crucial to end stigmatization and empower female ath
 {{<section title="Features">}}
 Lunarfit aims to bridge the gap between menstrual health and athletic performance.
 Therefore, a core component is the daily assessment, that combines training data, individual well-being and a range of methods to track the menstrual cycle accurately.
-Based on this it is possible to offer personalized nutritional and training recommendations.
+Based on this, it is possible to offer personalized nutritional and training recommendations.
 A calendar view facilitates long term planning.
 Information screens helps to better understand the menstrual cycle. 
 All of this allows to make more informed decisions and communicate better with trainers and peers.
