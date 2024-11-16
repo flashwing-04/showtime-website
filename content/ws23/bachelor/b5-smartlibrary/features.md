@@ -10,7 +10,7 @@ weight = 1
 
 - **Moodle Course:**
 
-By reading keywords from course names, course descriptions and keywords added by the educators we remove common words, which are stored in a blacklist, such as "a," "an," etc. (Functionality and blacklist sourced from beliefmedia.com). SmartLibrary constructs SQL queries from the extracted keywords to read material names and links associated with the keywords from the database.
+By reading keywords from course names, course descriptions and keywords added by the educators we remove common words, which are stored in a blacklist, such as "a," "an," etc. (functionality and blacklist sourced from beliefmedia.com). SmartLibrary constructs SQL queries from the extracted keywords to read material names and links associated with the keywords from the database.
 
 - **Crawler:**
 
