@@ -4,7 +4,7 @@ title = "PAM"
 subtitle = "Process Modeling and Management"
 claim = "Redesigning and Improving a Tool to simplify the creation and organisation of Process Diagrams in the Business Process Modelling Notation"
 claim2 = "Upgrading and enhancing a tool used to create Process Diagrams and organize them, modernizing the design and more"
-abstract = "PAM is a tool that was originally developed for GlobalCT by Students of the Leibniz Universität in Hannover. The Tool's purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders.It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially. That's where we came in."
+abstract = "PAM is a tool that was originally developed for GlobalCT by Students of the Leibniz Universität in Hannover. The Tool's purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme, following a simple folder/file format. However, it was rather simple, focusing on the basic features initially. That's where we came in."
 
 # Properties for displaying the project in the project list
 card_image = "pam2.png"
@@ -33,7 +33,7 @@ study_focus = ['Web Technology']
 
 {{<section title="Background">}}
 The Tool's purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders.
-It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially. That's where we came in.
+It also has an internal organization scheme, following a simple folder/file format. However, it was rather simple, focusing on the basic features initially. That's where we came in.
 {{</section>}}
 {{<section title="Our Goal">}}
 The Goal of this project was to improve and update PAM to use certain features as requested by GlobalCT, as well as learn to work within the Agile Development Project Structure. 
