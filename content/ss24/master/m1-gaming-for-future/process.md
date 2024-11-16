@@ -13,7 +13,7 @@ We held weekly Scrum meetings with product owners to iterate on and refine proje
 {{</section>}}
 
 {{<section title="Programming Workflow">}}
-We managed our Source Code using the Gitflow Workflow and GitLab. Features were implemented, tested and reviewed before integrating them into the devolpment and later the main branch.
+We managed our Source Code using the Gitflow Workflow and GitLab. Features were implemented, tested and reviewed before integrating them into the development and later the main branch.
 {{</section>}}
 
 {{<section title="Issue Assignment">}}

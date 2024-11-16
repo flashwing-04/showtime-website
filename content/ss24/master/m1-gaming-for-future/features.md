@@ -12,7 +12,7 @@ Map interactions are controlled and supervised in order to restrict specific pla
 
 * **Ground water level sensitive game winning conditions**
 
-Player actions directly influence groundwater levels. These influence changes are computed by respecting a data-table though and built to try and mimic somereal-life behavior in the environment.
+Player actions directly influence groundwater levels. These influence changes are computed by respecting a data-table though and built to try and mimic some real-life behavior in the environment.
 
 * **Reviving species**
 
@@ -21,10 +21,10 @@ Such objectives are displayed in the form of quests and can be achieved in the g
 * **Suitable habitat identification**
 
 Identifying complex habitats that can be considered suitable for a specie appeared quite challenging and asked many experiments. 
-Our actual solution uses a flood-fill algorithm and allow a fluid a peridodic update of the potential suitable habitats for the species.
+Our actual solution uses a flood-fill algorithm and allow a fluid a periodic update of the potential suitable habitats for the species.
 
 * **Localization**
 
-The game is supported in English & German language version to provide better accessiblity.
+The game is supported in English & German language version to provide better accessibility.
 
 {{</section>}}
