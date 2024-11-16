@@ -29,7 +29,7 @@ After the schedule is first created, teachers can see their weekly **timetable**
 {{<section title="Features for coordinators">}}
 Streamlining planning with LEP empowers coordinators by finding a first **practical solution** for the complex schedules with just a **few clicks** in the timetable view!
 Here they can also **manage all modules**, or **look up schedules** for all or specific course of study within selected semester types.
-This reduces days of manual planning into minutes, leaving time to focus on the personal touch of the created plans as well as other strategic decisions.
+This reduces days of manual planning into minutes, leaving time to focus on the personal touch of the created plans, as well as other strategic decisions.
 
 {{<image src="admin_features.png" alt="Admin features">}}
 {{</section>}}

@@ -7,7 +7,7 @@ weight = 3
 In the initial stages of development, one key challenge our team faced was **designing a user interface** (UI) that effectively 
 accommodates the input of constraints and preferences from teachers. None of us is a professional UX-UI designer, therefore, creating 
 an appealing and simple UI for admin or teachers to specify their requirements posed a significant hurdle, as it required striking 
-a balance between complexity and user-friendliness. We undertook several brainstorming sessions ensuring that the UI could be used efficiently 
+a balance between complexity and user-friendliness. We undertook several brainstorming sessions, ensuring that the UI could be used efficiently 
 without overwhelming the user.
 {{</section>}}
 
