@@ -6,7 +6,7 @@ weight = 1
 {{<section title="Research">}}
 At the start of our development journey, we devoted a significant amount of time to in-depth research. Our goal? To get inside the user's world, to understand the challenges they face on a daily basis, whether in a traditional office or in the rapidly evolving landscape of remote working. We dug deep to uncover the pros and cons and shed light on the finer details of their working environment.
 
-This in-depth exploration wasn't just about understanding workflows; it was about getting to the heart of communication. We recognised a common challenge - the lack of real connection experienced in online interactions. This realization fueled our determination to build features into mov.io that went beyond mere functionality. We wanted to bridge the gap in online communication and ensure that users felt the presence and essence of their colleagues, even in the virtual realm.
+This in-depth exploration wasn't just about understanding workflows; it was about getting to the heart of communication. We recognised a common challenge - the lack of real connection experienced in online interactions. This realization fuelled our determination to build features into mov.io that went beyond mere functionality. We wanted to bridge the gap in online communication and ensure that users felt the presence and essence of their colleagues, even in the virtual realm.
 
 As a result, the research phase became the compass that steered mov.io towards not just solving problems, but creating an experience that eliminates the sense of detachment often associated with online communication.
 {{</section>}}

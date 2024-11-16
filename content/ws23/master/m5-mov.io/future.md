@@ -15,10 +15,10 @@ In the future, users will be able to customize every nook and cranny of their vi
 {{</section>}}
 
 {{<section title="Seamless integration with external applications">}}
-To enhance the user experience, mov.io will seamlessly integrate with external applications, making it a central hub for productivity and entertainment. Integration with popular platforms such as Google Calendar will streamline scheduling and task management within the virtual workspace
+To enhance the user experience, mov.io will seamlessly integrate with external applications, making it a central hub for productivity and entertainment. Integration with popular platforms such as Google Calendar will streamline scheduling and task management within the virtual workspace.
 {{</section>}}
 
 {{<section title="Fun collaborations and interaction">}}
-Beyond the practical, we're exploring partnerships and integrations that add an element of fun and collaboration. Imagine interactive features that allow users to engage in virtual team building activities, brainstorming sessions or even friendly competitions within their customised 
+Beyond the practical, we're exploring partnerships and integrations that add an element of fun and collaboration. Imagine interactive features that allow users to engage in virtual team building activities, brainstorming sessions or even friendly competitions within their customised.
 {{</section>}}
 

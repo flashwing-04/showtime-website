@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{<section title="Ideation Struggles">}}
-The extensive ideation phase challenged the team as each member brought different perspectives, which led to difficulties in agreeing on a unified vision for mov.io. Uncertainty about the most appropriate technology required thorough research to make an informed decision. In addition, each team member brought unique insights, requiring additional effort to synthesize ideas and define key features, which impacted the initial stages of project build.
+The extensive ideation phase challenged the team, as each member brought different perspectives, which led to difficulties in agreeing on a unified vision for mov.io. Uncertainty about the most appropriate technology required thorough research to make an informed decision. In addition, each team member brought unique insights, requiring additional effort to synthesize ideas and define key features, which impacted the initial stages of project build.
 {{</section>}}
 
 
