@@ -16,6 +16,6 @@ We answered those questions by communication with the product owners of the food
 <br><br>
 After some brainstorming-sessions, together with the scientists from F4F, we agreed on recreating the experience of doing research on the optimal production environment for algae. This could be necessary in our food production processes in the future. F4F by themselves created two possible scenarios. They are called “No land” and “No trade”. Within our application we focused on the “No land”-Scenario.
 <br><br>
-It creates a picture of a possible future where the land used for producing food recourses is not usable anymore. This is due a dramatic change in climate conditions. But if our environment changes, we as humans must change too. At this stage the research of F4F pays off. In this scenario the cultivation of food resources in doors is necessary.
+It creates a picture of a possible future where the land used for producing food recourses is not usable anymore. This is due to a dramatic change in climate conditions. But if our environment changes, we as humans must change too. At this stage, the research of F4F pays off. In this scenario, the cultivation of food resources in doors is necessary.
 If you want to learn more about these scenarios visit the website of food4future [here](https://www.food4future.de/en/about-us/vision).
 {{</section>}}
