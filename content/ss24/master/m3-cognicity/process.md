@@ -14,7 +14,7 @@ To finalize our research, we conducted an **expert interview with a psychologist
 
 {{<section title ="Concept" >}} 
 After we had done all the research and collected all the ideas, we started to work on the **concept of our game suite**. During this process, we looked at different possibilities on **which tech stack** we should use and for **what platform** we should build the project. Considering that the game suite **should be available for everyone** while making it as easy as possible for patients to get started, we decided on aiming for **mobile devices** like tablets and smartphones. Due to our previous experience with the engine, we ultimately decided to develop the game with the **open-source Godot Engine**.
-During the concept phase we also picked which minigames we want to implement and started planning the game world and the overall design of the game using a **mood board** and **user stories**.
+During the concept phase, we also picked which minigames we want to implement and started planning the game world and the overall design of the game using a **mood board** and **user stories**.
 We divided the cognitive skills into **five categories** (Logical Thinking, Working Memory, Spatial Thinking, Attention and Reaction Speed) and decided that our **minimum viable product** should include at least one minigame for each category.
 {{</section>}}
 

@@ -29,7 +29,7 @@ study_focus = ['Game Technology']
 {{<section title="The Problem">}}
 How good our **cognitive abilities** are has a **significant impact** on how good we perceive our own **life quality**.<sup>1</sup> 
 
-Unfortunately some health conditions and their treatments can lead to a **decline in these abilities**. For example, imagine a teenager who has to spend a lot of time in the hospital due to a **chronic illness** and is unable to attend school regularly. Or a young adult who suffers from a heart disease and has to take regular **medication which can affect their cognitive abilities**. 
+Unfortunately, some health conditions and their treatments can lead to a **decline in these abilities**. For example, imagine a teenager who has to spend a lot of time in the hospital due to a **chronic illness** and is unable to attend school regularly. Or a young adult who suffers from a heart disease and has to take regular **medication which can affect their cognitive abilities**. 
 
 To fight the potential decline in those abilities, it is important to **train them regularly**. However, the training should be **fun and engaging** to keep the motivation high. This is where **CogniCity** comes in: a **game suite** that provides **interactive and adaptive minigames** to help improve cognitive abilities in a fun and engaging way.
 
